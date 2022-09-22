@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fft", "fft\fft.csproj", "{3CC276ED-9565-4723-A0F6-A7258F0837B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTT_ARDUINO", "Graph\FTT_ARDUINO.csproj", "{495E47C2-2FE4-4842-99C5-04ADBE90B686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC276ED-9565-4723-A0F6-A7258F0837B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC276ED-9565-4723-A0F6-A7258F0837B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC276ED-9565-4723-A0F6-A7258F0837B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC276ED-9565-4723-A0F6-A7258F0837B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495E47C2-2FE4-4842-99C5-04ADBE90B686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495E47C2-2FE4-4842-99C5-04ADBE90B686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495E47C2-2FE4-4842-99C5-04ADBE90B686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495E47C2-2FE4-4842-99C5-04ADBE90B686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FADD19D-E8F5-4247-8A43-30640A7D91F7}
+	EndGlobalSection
+EndGlobal
