@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fft", "fft\fft.csproj", "{3CC276ED-9565-4723-A0F6-A7258F0837B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFT_EXP", "fft\FFT_EXP.csproj", "{3CC276ED-9565-4723-A0F6-A7258F0837B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTT_ARDUINO", "Graph\FTT_ARDUINO.csproj", "{495E47C2-2FE4-4842-99C5-04ADBE90B686}"
 EndProject
